@@ -1,6 +1,6 @@
 # PostgreSQL Chess Extension
 
-This is my course project for INFOH417 Database System Architecture 2023/24 at ULB. We designed a a PostgreSQL extension for storing and
+This is my course project for INFOH417 Database System Architecture 2023/24 at ULB. We designed a PostgreSQL extension for storing and
 retrieving chess games. There exist multiple notations for encoding complete chess games as well as for encoding the board status at a certain move in the game. In particular, we used [Standard Algebraic Notation (SAN)](https://en.wikipedia.org/wiki/Algebraic_notation_(chess)) to store the moves part of the Portable Game Notation (PGN), and [Forsyth–Edwards Notation (FEN)](https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation) to store board states.
 
 ## Description
