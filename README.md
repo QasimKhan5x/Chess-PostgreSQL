@@ -25,4 +25,4 @@ Ensure you have installed PostgreSQL in a Linux environment (Ubuntu, WSL, etc). 
 
 `make && make install`
 
-Next, open a `psql` session and create the extension via `CREATE EXTENSION chess`
+Next, open a `psql` session and create the extension via `CREATE EXTENSION chess`. The `tests` folder contains many examples of interacting with the extension.
